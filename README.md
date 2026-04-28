@@ -48,13 +48,13 @@ Open [http://localhost:3000](http://localhost:3000) — FRIDAY is ready! 🎉
 
 ---
 
-## 🔑 Getting Your Grok API Key
+## 🔑 Getting Your Groq API Key
 
-1. Go to [https://console.x.ai/](https://console.x.ai/)
-2. Sign in with your X (Twitter) account
+1. Go to https://console.groq.com/home
+2. Sign in 
 3. Navigate to **API Keys**
 4. Create a new key and copy it
-5. Paste it into `.env.local` as `XAI_API_KEY`
+5. Paste it into `.env.local` 
 
 ---
 
