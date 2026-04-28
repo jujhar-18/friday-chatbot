@@ -12,7 +12,6 @@
 
 - **3 AI Engines** — Switch between Grok, Ollama, and LangChain in the UI
 - **Vercel AI SDK** — Streaming responses out of the box
-- **Grok (xAI)** — Cutting-edge AI via `api.x.ai`
 - **Ollama** — Run models locally (Llama 3, Mistral, etc.)
 - **LangChain** — Enterprise-grade AI orchestration
 - **Edge Runtime** — Ultra-fast responses via Vercel Edge
